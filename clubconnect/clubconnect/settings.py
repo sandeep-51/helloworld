@@ -25,10 +25,10 @@ SECRET_KEY = 'django-insecure-g4+(-^=3$r&sv65fz33=r+tz@#b(hjwi_3-dh#9*=_1#6_uoox
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['helloworls-junj.onrender.com']
+ALLOWED_HOSTS = ['helloworlds-junj.onrender.com']
 
 CSRF_TRUSTED_ORIGINS = [
-    https://helloworld-junj.onrender.com,
+   'https://helloworld-junj.onrender.com',
 ]
 
 
